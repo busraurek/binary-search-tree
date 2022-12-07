@@ -6,6 +6,6 @@ Proje 3
 
 Cevap:  
 
-![alt text](http://..md.png)  
+
 
 Bu Çalışma Patika Veri Yapıları Algoritmaları Ödev3 için Yapıldı
